@@ -1,0 +1,5 @@
+.jobForm{
+    opacity: 0;
+    height :0px;
+    transition: 1s;
+}
